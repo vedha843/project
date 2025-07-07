@@ -20,8 +20,3 @@ The Appointment No-Show Predictor is a web-based application designed to predict
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, etc.)
 - Visual Studio Code (optional, for editing)
-
-### Installation
-1. Clone the repository or download the HTML file.
-   ```bash
-   git clone <repository-url>
